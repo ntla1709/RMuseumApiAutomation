@@ -121,7 +121,7 @@
                         </property>
                     </systemProperties>
                     <systemPropertyVariables>
-                        <env>dev</env>
+                        <env>qa</env>
                     </systemPropertyVariables>
                 </configuration>
                 <dependencies>

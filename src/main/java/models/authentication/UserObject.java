@@ -17,7 +17,7 @@ public class UserObject {
     }
 
     public static UserObject user() {
-        return new UserObject("string", "string", "string", "string");
+        return new UserObject("naren98997@lidely.com", "123qweQWE", "string", "english");
     }
 }
 
